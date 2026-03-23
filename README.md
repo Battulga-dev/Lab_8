@@ -11,3 +11,5 @@
 
 ## Author
 Б.Баттулга
+
+![alt text](image.png)
