@@ -16,3 +16,5 @@
 
 ## Eclipse push test
 nothing
+![alt text](Photo1.png)
+![alt text](Photo2.png)
